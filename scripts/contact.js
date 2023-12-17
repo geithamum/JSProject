@@ -5,6 +5,6 @@
 
 
 document.getElementById("submit-button").addEventListener("click", function() {
-    document.getElementById("contact-page").innerHTML = "Thank you for your message"
-    document.getElementById("contact-page").style.fontSize = "24px"
+    document.getElementById("contact-page").innerHTML = "Thank you for your message";
+    document.getElementById("contact-page").style.fontSize = "24px";
 });
